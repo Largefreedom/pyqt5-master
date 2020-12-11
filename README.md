@@ -18,6 +18,6 @@
 ![录制_2020_08_02_19_41_58_289.gif](http://ww1.sinaimg.cn/large/007wRTdIly1ghcrmlq09zg30zk0k0npf.gif)
 
 ----
-关于demo如果有什么问题可以关注一下 个人微信公号:**Z先生点记**，后台私聊我即可：
+关于demo如果有什么问题可以关注一下 个人微信公号:**小张Python**，后台私聊我即可，可扫下方二维码
 
-![Z先生点记.jpg](http://ww1.sinaimg.cn/large/007wRTdIgy1ga0s48ughuj3076076wey.jpg)
+![Z先生点记.jpg](http://ww1.sinaimg.cn/large/008b8Ryzgy1glk57hikakj31dp0hadix.jpg)
