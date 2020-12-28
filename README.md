@@ -17,7 +17,12 @@
 ![Snipaste_2020-08-02_20-55-46.png](http://ww1.sinaimg.cn/large/007wRTdIly1ghcrjq6i9bj309f09saam.jpg)
 ![录制_2020_08_02_19_41_58_289.gif](http://ww1.sinaimg.cn/large/007wRTdIly1ghcrmlq09zg30zk0k0npf.gif)
 
-----
-关于demo如果有什么问题可以关注一下 个人微信公号:**小张Python**，后台私聊我即可，可扫下方二维码
+-----
 
-![Z先生点记.jpg](http://ww1.sinaimg.cn/large/008b8Ryzgy1glk57hikakj31dp0hadix.jpg)
+#### 个人小建议：代码结合博客食用效果更佳，博客地址：[小张Python | 专注 Python 编程！ (zeroingpython.top)](https://zeroingpython.top/)
+
+#### 鉴于个人水平有限，如有问题可以在公众号（小张Python）后台留言：
+
+**公众号二维码地址：**
+<br>
+![Snipaste_2020-02-08_16-08-20.jpg](https://images.zeroingpython.top/img/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f303038623852797a677931676c6b353768696b616b6a333164703068616469782e6a7067.jpg)
